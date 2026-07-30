@@ -4,7 +4,7 @@
 **Systematically analysing the data structure and thourough accessing its inaccuracies**
 
 #### Project Background and Overview
-This readme shows the analytical stage of the real-estate predictive project which focus on understanding the data structure, features, economic and behaviorer factors influencing the prices and sales of the properties  
+This readme shows the analytical stage of the real-estate predictive project which focus on understanding the data structure, paterns, features, economic and behavioral factors influencing the prices and sales of the properties  
 
 #### This phase was executed in order to:  
 - inspect and validate data quality
